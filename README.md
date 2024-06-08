@@ -4,6 +4,8 @@
 
 Sarcasm is a nuanced form of expression often characterized by intensified positive language to convey a negative sentiment. This complexity poses significant challenges for Natural Language Processing (NLP) and sentiment analysis. The primary goal of this project is to develop a model capable of accurately recognizing and interpreting sarcastic content in text.
 
+Access for Original Dataset click here:  https://1drv.ms/x/c/6226ecee936f491c/EcLJf8TQup5LgbaN_112vd0BLulVW4ItA0rmZjkIHiV_PA?e=iTwlwc
+
 ## Outcomes
 
 - Develop a robust model for detecting sarcasm.
