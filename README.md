@@ -111,12 +111,12 @@ We propose a deep learning-based approach to detect sarcasm in YouTube comments.
    - **Pros:** Diverse sentiments and product categories.
    - **Cons:** Sarcasm is less frequent and context is often limited.
 
-3. **Reddit Comments (Selected):**
+3. **Reddit Comments:**
    - **Characteristics:** Rich in context with threaded conversations.
    - **Pros:** High sarcasm occurrence, varied topics.
    - **Cons:** Requires extensive preprocessing to handle nested comments.
 
-4. **YouTube Comments:**
+4. **YouTube Comments (Selected):**
    - **Characteristics:** Comments on a wide range of videos, often with replies providing context.
    - **Pros:** Rich contextual information, high frequency of sarcasm.
    - **Cons:** Noise from off-topic comments and spam.
