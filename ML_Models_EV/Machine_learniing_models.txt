@@ -1,0 +1,33 @@
+Machine Learning Models
+
+Once handled the imbalance in dataset, the next step is to evaluate different machine learning models. Machine learning models such as Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, and Gradient Boosting will be employed for classification tasks. The performance of these models will be evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
+
+Implementation:
+
+We will evaluate the following machine learning models:
+
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Support Vector Machine
+Gradient Boosting Classifier
+
+Sure, here are some brief lines about each of these topics:
+
+Logistic Regression:
+Logistic Regression is a statistical model used for binary classification tasks. It predicts the probability that a given input belongs to a particular category by fitting data to a logistic curve.
+
+Decision Tree Classifier:
+A Decision Tree Classifier is a non-parametric supervised learning algorithm used for classification tasks. It splits the dataset into subsets based on the value of input features, creating a tree-like model of decisions.
+
+Random Forest Classifier:
+The Random Forest Classifier is an ensemble learning method that constructs multiple decision trees during training and outputs the class that is the mode of the classes of the individual trees. It improves the classification performance by reducing overfitting.
+
+Support Vector Machine:
+A Support Vector Machine (SVM) is a supervised learning model used for both classification and regression tasks. It works by finding the hyperplane that best separates the data points of different classes in a high-dimensional space. 
+
+Gradient Boosting Classifier:
+The Gradient Boosting Classifier is an ensemble technique that builds a model from multiple weak learners, usually decision trees, in a sequential manner. Each new tree corrects the errors made by the previous ones by focusing on the hardest-to-classify samples.
+
+
+##It seems like SVM and logistic regression are more accurate models for this scenario.
